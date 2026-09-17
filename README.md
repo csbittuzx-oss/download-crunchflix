@@ -47,7 +47,7 @@
 - 🗂️ **Full Season Navigation**: Complete multi-season navigation across all franchise arcs and seasons.
 - 📺 **Adaptive HD Quality**: Defaults to **1080p (Auto)** with smooth manual switching: `1080p (Auto)`, `1080p Full HD`, `720p HD`, `480p`, and `360p`.
 - 🎙️ **Multi-Audio Support**: Switch effortlessly between **Hindi Dub**, **Japanese (Original)**, and **English Dub**.
-- 🚀 **8 High-Speed Streaming Nodes**: Built-in intelligent auto-failover seamlessly switches servers if any stream is unreachable (includes PikaHD & Yomi 6-node cluster).
+- 🚀 **19 High-Speed Streaming Servers**: Built-in intelligent auto-failover seamlessly switches across all 19 servers if any stream is unreachable.
 - 📺 **Android TV & Mobile Ready**: Fully optimized interface supporting touch navigation, phone layouts, tablet grids, and Android TV D-Pad remotes.
 - 🛡️ **Play Protect Safe**: Clean manifest with zero sensitive or intrusive permissions.
 
