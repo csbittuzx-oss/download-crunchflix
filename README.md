@@ -35,7 +35,7 @@
 
 | File Name | Version | Size | Download Link |
 | :--- | :---: | :---: | :--- |
-| **`app-release.apk`** | `v1.0.6+8` | `70.3 MB` | [**⬇️ Click Here to Download APK**](https://github.com/csbittuzx-oss/download-crunchflix/raw/main/app-release.apk) |
+| **`app-release.apk`** | `v1.0.6+8` | `70.5 MB` | [**⬇️ Click Here to Download APK**](https://github.com/csbittuzx-oss/download-crunchflix/raw/main/app-release.apk) |
 
 > 💡 **Tip:** If the download doesn't start automatically on your browser, right-click the button above and select **"Save Link As..."**.
 
@@ -48,6 +48,8 @@
 - 📺 **Adaptive HD Quality**: Defaults to **1080p (Auto)** with smooth manual switching: `1080p (Auto)`, `1080p Full HD`, `720p HD`, `480p`, and `360p`.
 - 🎙️ **Multi-Audio Support**: Switch effortlessly between **Hindi Dub**, **Japanese (Original)**, and **English Dub**.
 - 🚀 **19 High-Speed Streaming Servers**: Built-in intelligent auto-failover seamlessly switches across all 19 servers if any stream is unreachable.
+- 🎨 **New Curated Home Shelves**: Explore *Into The Fantasia*, *Evergreen Anime on Crunchyroll*, and *Hidden Gems* with verified official artwork.
+- 🎛️ **Polished Player Controls**: Audio tracks, quality selector, and screen view buttons flush-aligned to the right edge.
 - 📺 **Android TV & Mobile Ready**: Fully optimized interface supporting touch navigation, phone layouts, tablet grids, and Android TV D-Pad remotes.
 - 🛡️ **Play Protect Safe**: Clean manifest with zero sensitive or intrusive permissions.
 
